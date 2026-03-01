@@ -9,9 +9,8 @@ Si ya estás conectado por SSH a tu Kali linux desde Antigravity, sigue estos pa
 ¿Por qué ahí?
 Antigravity busca estas reglas siguiendo una jerarquía:
 
-Prioridad 1: La carpeta .antigravity en la raíz de tu proyecto abierto.
-
-Prioridad 2: La carpeta .antigravity en tu Home Directory (/home/tu-usuario/).
+- Prioridad 1: La carpeta .antigravity en la raíz de tu proyecto abierto.
+- Prioridad 2: La carpeta .antigravity en tu Home Directory (/home/tu-usuario/).
 
 Recordatorio de ubicación
 Para que funcione, asegúrate de que el archivo esté exactamente en:
