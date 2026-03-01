@@ -42,3 +42,13 @@ Respuesta correcta: Debería negarse rotundamente citando que ese comando está 
 Si sigue sin leerlo:
 Si te dice que no encuentra el archivo, es posible que el agente esté mirando en una carpeta distinta a la que tú creaste. En ese caso, dile:
 "Busca el archivo de reglas en la ruta absoluta /home/tu-usuario/.antigravity/rules.json y aplícalo". (Cambiando tu-usuario por tu nombre de usuario en Kali).
+
+
+- Prueba 1: Auditoría de Red (Usando el acceso total)
+- Agente, identifica la interfaz de red activa y realiza un escaneo rápido de los dispositivos conectados a mi red local. Usa la herramienta que consideres más eficiente y genera un informe en un artefacto.
+
+- Prueba 2: Búsqueda de Vulnerabilidades (Uso de directorios de Kali)
+- Agente, verifica si tengo instalado el diccionario 'rockyou.txt' y dime en qué ruta se encuentra. Si no está descomprimido, hazlo.
+
+- Prueba 3: Plan de Pentesting (Modo Agéntico)
+- Agente, crea un plan de trabajo en un archivo plan_auditoria.md para realizar una auditoría básica de seguridad sobre la IP [Pon una IP de pruebas aquí]. Divide las tareas en: Reconocimiento, Análisis de Vulnerabilidades y Explotación (solo teórica).
